@@ -13,7 +13,6 @@
 .ipynb_checkpoints
 
 ### too large data ###
-*.npy
 *.csv
 *.jpg
 *.zip
